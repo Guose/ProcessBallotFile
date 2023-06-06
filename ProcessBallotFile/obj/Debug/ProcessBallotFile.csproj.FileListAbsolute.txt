@@ -1,0 +1,16 @@
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Debug\ProcessBallotFile.exe.config
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Debug\ProcessBallotFile.exe
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Debug\ProcessBallotFile.pdb
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.csproj.AssemblyReference.cache
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.csproj.SuggestedBindingRedirects.cache
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.csproj.CoreCompileInputs.cache
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.exe
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.pdb
+C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Debug\ProcessBallotFile.exe.config
+C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Debug\ProcessBallotFile.exe
+C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Debug\ProcessBallotFile.pdb
+C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.csproj.AssemblyReference.cache
+C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.csproj.CoreCompileInputs.cache
+C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.exe
+C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Debug\ProcessBallotFile.pdb

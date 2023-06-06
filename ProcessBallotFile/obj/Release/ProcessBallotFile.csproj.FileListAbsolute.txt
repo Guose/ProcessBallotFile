@@ -1,0 +1,8 @@
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Release\ProcessBallotFile.exe.config
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Release\ProcessBallotFile.exe
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\bin\Release\ProcessBallotFile.pdb
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Release\ProcessBallotFile.csproj.AssemblyReference.cache
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Release\ProcessBallotFile.csproj.SuggestedBindingRedirects.cache
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Release\ProcessBallotFile.csproj.CoreCompileInputs.cache
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Release\ProcessBallotFile.exe
+C:\DESKTOP-7A7U8T0\c\IVS_NEW\ProcessBallotFile\ProcessBallotFile\obj\Release\ProcessBallotFile.pdb

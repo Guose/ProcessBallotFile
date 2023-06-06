@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>C:\Users\Guose\Mirror\DESKTOP-7A7U8T0\c\IVS_NEW\CurrentElection\2022NovGeneralElection\CA\CAFRESNO\CAFRESNO_BOD-ALL_PERM_18 BallotID_IVS false false</StartArguments>
+  </PropertyGroup>
+</Project>
