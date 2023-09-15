@@ -20,13 +20,10 @@ namespace ProcessBallotFile
             }
             else
             {
-
                 input = args[0];
                 string column = args[1];
                 bool isInkjet = Convert.ToBoolean(args[2]);
-                bool needsDivider = Convert.ToBoolean(args[3]);
-
-                
+                bool needsDivider = Convert.ToBoolean(args[3]);                
 
                 if (!input.Equals(""))
                 {
@@ -62,16 +59,12 @@ namespace ProcessBallotFile
                         if (rp.RunMultiJobs(ref counter))
                         {
                             Console.WriteLine("Successfully processed...");
-                        }
-
-                        
+                        }                        
 
                         Console.WriteLine($"{rp.ProcessCounter} files successfully processed.");
                         ProcessErrors(rp);
 
                         rp.Dispose();
-                        rp = null;
-                        
                         Console.WriteLine("\nMulti-Job completed");
                     }
                 }

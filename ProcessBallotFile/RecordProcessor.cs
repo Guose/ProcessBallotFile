@@ -1,14 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.Common;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Runtime.Remoting.Messaging;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace ProcessBallotFile
 {
@@ -20,7 +14,6 @@ namespace ProcessBallotFile
         private const int stackSize = 2500;
         private const int boxQty = 500;
         private const char delimiter = '|';
-
         private bool isDisposing = false;
         private bool _isInkjet;
         private string _input;
@@ -72,7 +65,6 @@ namespace ProcessBallotFile
 
             try
             {
-
                 Thread.Sleep(1000);
                 foreach (var item in files)
                 {
@@ -87,9 +79,7 @@ namespace ProcessBallotFile
                         RunJob(ref counter);
                         Console.WriteLine($"Job running: Job# {taskId++}");
                     }
-
-                    Thread.Sleep(1000);
-                    
+                    Thread.Sleep(1000);                    
                 }
 
                 return true;
@@ -274,9 +264,6 @@ namespace ProcessBallotFile
                 HandleCatchErrors(ex);
                 throw;
             }
-            //finally { streamWriter.Dispose(); streamWriter = null; }
-
-           
         }
 
         private void CopyRecordsOfOrderQty(string[] arr, int orderNum)
